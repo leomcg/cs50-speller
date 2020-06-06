@@ -1,2 +1,2 @@
-# cs50-speller
-cs50's problem set 5
+# Problem set specifications
+https://cs50.harvard.edu/x/2020/psets/5/speller/
